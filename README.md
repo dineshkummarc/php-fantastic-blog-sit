@@ -1,5 +1,4 @@
 # Fantastic Blog (CMS) in PHP with Source Code
-
 <div align="center">
 	<img src="blogadmin.png" />
 </div>
